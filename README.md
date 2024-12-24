@@ -22,8 +22,8 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## Get In Touch
 
-- [LinkedIn]([your LinkedIn profile link](https://www.linkedin.com/in/dursun-ozgur-cakirkaya/))
-- [ X ]([your Twitter profile link](https://x.com/obscureck))
+- ([LinkedIn](https://www.linkedin.com/in/dursun-ozgur-cakirkaya/))
+- ([ X ](https://x.com/obscureck))
 - [Email](ozgurcakirkaya@gmail.com)
 
 Feel free to explore my repositories and let's connect!
