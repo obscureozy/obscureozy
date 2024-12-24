@@ -7,7 +7,7 @@ Welcome to my GitHub profile! Here's a little about me:
 - 👨‍💻 I'm a passionate support engineer with a keen interest in blockchain projects.
 - 🌱 I’m currently learning [Rust and Python].
 - 💬 Ask me about [integration of blockchain APIs].
-- 📫 How to reach me: [ozgurcakirkaya@gmail.com || https://www.linkedin.com/in/dursun-ozgur-cakirkaya/].
+- 📫 How to reach me: [ozgurcakirkaya@gmail.com].
 - ⚡ Fun fact: [Classical music and all metal music genres fun].
 
 ## My Skills
@@ -24,7 +24,6 @@ Welcome to my GitHub profile! Here's a little about me:
 
 - ([LinkedIn](https://www.linkedin.com/in/dursun-ozgur-cakirkaya/))
 - ([ X ](https://x.com/obscureck))
-- [Email](ozgurcakirkaya@gmail.com)
 
 Feel free to explore my repositories and let's connect!
 
