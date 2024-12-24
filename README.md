@@ -8,7 +8,7 @@ Welcome to my GitHub profile! Here's a little about me:
 - 🌱 I’m currently learning [Rust and Python].
 - 💬 Ask me about [integration of blockchain APIs].
 - 📫 How to reach me: [ozgurcakirkaya@gmail.com].
-- ⚡ Fun fact: [Classical music and all metal music genres fun].
+- ⚡ Fun fact: [Loves dog and adores cats ❤️❤️🐈‍⬛🐕❤️❤️].
 
 ## My Skills
 
