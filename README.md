@@ -7,7 +7,7 @@ Welcome to my GitHub profile! Here's a little about me:
 - 👨‍💻 I'm a passionate support engineer with a keen interest in blockchain projects.
 - 🌱 I’m currently learning [Rust and Python].
 - 💬 Ask me about [integration of blockchain APIs].
-- ⚡ Fun fact: [Loves dogs and adores cats ❤️❤️🐈‍⬛🐕❤️❤️].
+- ⚡ Fun fact: [Can drink coffee and tea at the same time 😇☕️🫖].
 
 ## My Skills
 
@@ -17,7 +17,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## Github Stats
 
-![obscureozy's GitHub stats](https://github-readme-stats.vercel.app/api?username=obscureozy&show_icons=true&theme=radical)
+![obscureozy's GitHub stats](https://github-readme-stats.vercel.app/api?username=obscureozy&show_icons=true&theme=dark)
 
 
 Feel free to contact for geeky chats 😁
