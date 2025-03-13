@@ -7,7 +7,7 @@ Welcome to my GitHub profile! Here's a little about me:
 - 👨‍💻 I'm a passionate support engineer with a keen interest in blockchain projects.
 - 🌱 I’m currently learning [Rust and Python].
 - 💬 Ask me about [integration of blockchain APIs].
-- ⚡ Fun fact: [Can drink coffee and tea at the same time 😇☕️🫖].
+- ⚡ Fun fact: [ I write code while munching on snacks 🍕, headbanging to metal 🤘, and dreaming of a world where dogs 🐶 and cats 🐱 rule the internet! 😆🐾🔥].
 
 ## My Skills
 
