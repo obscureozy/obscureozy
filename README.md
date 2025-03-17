@@ -1,6 +1,6 @@
 # Hi there, I'm Ozgur 👋
 
-Welcome to my GitHub profile! Here's a little about me:
+Welcome to my GitHub profile! 
 
 ## About Me
 
