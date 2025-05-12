@@ -11,7 +11,7 @@ Welcome to my GitHub profile!
 
 ## My Skills
 
-- **Languages:** [JS, TS, Python]
+- **Languages:** [JS, TS, PHP]
 - **Frameworks:** [React]
 - **Tools:** [Git, Docker, Blockchain CLIs]
 
