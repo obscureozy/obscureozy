@@ -18,7 +18,8 @@ Welcome to my GitHub profile!
 ## Github Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=obscureozy)](https://git.io/streak-stats)
-Feel free to contact for geeky chats 😁
+
+Geeky chats welcome!
 
 <!---
 obscureozy/obscureozy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
