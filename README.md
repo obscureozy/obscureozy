@@ -17,7 +17,7 @@ Welcome to my GitHub profile!
 
 ## Github Stats
 
-![obscureozy's GitHub stats](https://github-readme-stats.vercel.app/api?username=obscureozy&show_icons=true&theme=dark)
+![obscureozy's GitHub stats]<img src="https://github-readme-stats.vercel.app/api/top-langs?username=obscureozy&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 
 Feel free to contact for geeky chats 😁
