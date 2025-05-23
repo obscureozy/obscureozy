@@ -18,7 +18,7 @@ Welcome to my GitHub profile!
 ## Github Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=obscureozy)](https://git.io/streak-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stat)](https://github.com/obscureozy/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=ton-wallet-testnet)](https://github.com/obscureozy/github-readme-stats)
 
 Geeky chats welcome!
 
