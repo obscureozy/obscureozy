@@ -17,7 +17,7 @@ Welcome to my GitHub profile!
 
 ## Github Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=obscureozy)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=obscureozy&theme=dark)](https://git.io/streak-stats)
 
 Geeky chats welcome!
 
