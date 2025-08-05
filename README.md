@@ -14,6 +14,7 @@ Welcome to my GitHub profile!
 - **Languages:** [JS, TS, PHP]
 - **Frameworks:** [React]
 - **Tools:** [Git, Docker, Blockchain CLIs]
+- **CI/CD:** [Bitbucket, Gitlab, Jenkins]
 
 ## Github Stats
 
