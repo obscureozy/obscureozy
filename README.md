@@ -17,11 +17,9 @@ Welcome to my GitHub profile!
 
 ## Github Stats
 
-![](https://komarev.com/ghpvc/?username=obscureozy&color=blue)
-
 ![obscureozy's Stats](https://github-readme-stats.vercel.app/api?username=obscureozy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-
+![](https://komarev.com/ghpvc/?username=obscureozy&color=blue)
 
 
 <!---
