@@ -18,6 +18,7 @@ Welcome to my GitHub profile!
 ## Github Stats
 
 ![obscureozy's Stats](https://github-readme-stats.vercel.app/api?username=obscureozy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![Visitor Count](https://profile-counter.glitch.me/obscureozy/count.svg)
 
 Geeky chats welcome!
 
