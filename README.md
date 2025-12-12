@@ -2,8 +2,6 @@
 
 ### 👨‍💻 I'm a passionate support engineer with a keen interest in blockchain & fintech projects.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=obscureozy&label=Profile views&color=0e75b6&style=flat" alt="obscureozy" /> </p>
-
 - 🔭 I'm currently working on **blockchain SDKs, CLIs and backend.**
 
 - 🌱 I'm currently learning **Rust, PHP and Python.**
