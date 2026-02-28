@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ozycomputing@gmail.com**
 
-- ⚡ Fun fact **⚡ Fun fact write code while munching on snacks 🍕, headbanging to metal 🤘, and dreaming of a world where dogs 🐶 and cats 🐱 rule the internet! 😆🐾🔥**
+- ⚡ Fun fact **⚡ Tinker with code or prompts while munching on snacks 🍕, headbanging to metal 🤘, and dreaming of a world where dogs 🐶 and cats 🐱 rule the internet! 😆🐾🔥**
 
 - 📝 I write articles on **[https://docak.hashnode.dev/](https://docak.hashnode.dev/)**
 
