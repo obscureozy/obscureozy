@@ -2,9 +2,9 @@
 
 ### 👨‍💻 I'm a passionate support engineer with a keen interest in blockchain & fintech projects.
 
-- 🔭 I'm currently working on **blockchain SDKs, CLIs and backend.**
+- 🔭 I'm currently working on **some SDKs, CLIs and backend.**
 
-- 🌱 I'm currently learning **Rust, PHP and Python.**
+- 🌱 I'm currently learning **Rust, PHP and Python** and **honing my debugging skills for backend.** 
 
 - 💬 Ask me about **blockchain infra, frontend & backend testing, DevOps.**
 
@@ -14,7 +14,7 @@
 
 - 📝 I write articles on **[https://docak.hashnode.dev/](https://docak.hashnode.dev/)**
 
-- 📄 Know about my experiences **[https://obscureozy.github.io/](https://obscureozy.github.io/)**
+- 📄 Know about my professional journey **[https://obscureozy.github.io/](https://obscureozy.github.io/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
