@@ -3,7 +3,8 @@
 ### 👨‍💻 I'm a passionate support engineer with a keen interest in blockchain & fintech projects.
 
 - 🔭 I'm currently working on **some SDKs, CLIs and backend.**
-- 🌱 I'm currently learning **Rust, PHP and Python** and **honing my debugging skills for backend.** - 💬 Ask me about **blockchain infra, frontend & backend testing, DevOps.**
+- 🌱 I'm currently learning **Rust, PHP and Python** and **honing my debugging skills for backend.**
+- 💬 Ask me about **blockchain infra, frontend & backend testing, DevOps.**
 - 📫 How to reach me: **ozycomputing@gmail.com**
 - ⚡ Fun fact: **Tinker with code or prompts while munching on snacks 🍕, headbanging to metal 🤘, and dreaming of a world where dogs 🐶 and cats 🐱 rule the internet! 😆🐾🔥**
 
@@ -19,17 +20,17 @@
 
 #### ☁️ Cloud & DevOps
 <p align="left">
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,linux,git,bash" alt="Cloud and DevOps" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,debian,ubuntu,mint,redhat,kali,arch,bsd,apple,git,bash,windows,powershell" alt="Cloud and DevOps" />
 </p>
 
 #### 🌐 Web & Backend
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,vue,graphql,mongodb,mysql,postgres" alt="Web and Backend" />
+<img src="https://skillicons.dev/icons?i=html,js,ts,nodejs,bun,express,react,vue,vite,vercel,nestjs,astro,wordpress,sass,yarn,fastapi,graphql,mongodb,mysql,postgres,sqlite,tauri,md,ipfs,solidity,github,gitlab" alt="Web and Backend" />
 </p>
 
 #### ⚙️ Programming Languages
 <p align="left">
-<img src="https://skillicons.dev/icons?i=py,go,rust,php,c,cpp" alt="Programming Languages" />
+<img src="https://skillicons.dev/icons?i=py,go,rust,php" alt="Programming Languages" />
 </p>
 
 #### 🧪 Testing & Monitoring
@@ -40,5 +41,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=obscureozy&show_icons=true&theme=radical" alt="Ozy's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=obscureozy&show_icons=true&theme=tokyonight" alt="Ozy's GitHub Stats" />
 </p>
