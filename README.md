@@ -37,9 +37,3 @@
 <p align="left">
 <img src="https://skillicons.dev/icons?i=postman,jest,cypress,selenium,grafana" alt="Testing and Monitoring" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=obscureozy&show_icons=true&theme=tokyonight" alt="Ozy's GitHub Stats" />
-</p>
